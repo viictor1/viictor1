@@ -2,9 +2,9 @@
 
 Full stack developer (Java · Spring Boot · Vue.js) working on an urban asset management platform used in 700+ cities. Computer Science student at UTFPR, graduating Dec 2026.
 
-- 🔭 **At work:** full stack on an ERP for public lighting and urban services, including routing features (OptaPlanner), integration test coverage (JUnit, JaCoCo) and a WhatsApp chatbot (Node.js, Camunda BPMN)
-- 🔬 **Research:** how AI coding agents are changing newcomer participation in open source, with 2.6M pull requests mined from 450 GitHub repositories
-- 🌱 **Open source:** migrated TEAMMATES off Angular's deprecated animations (4 merged PRs)
+- 🔭 Full stack on an ERP for public lighting and urban services, including routing features (OptaPlanner), integration test coverage (JUnit, JaCoCo) and a WhatsApp chatbot (Node.js, Camunda BPMN)
+- 🔬 Researching how AI coding agents are changing newcomer participation in open source, with 2.6M pull requests mined from 450 GitHub repositories
+- 🌱 Migrated TEAMMATES off Angular's deprecated animations (4 merged PRs)
 
 ### 🛠️ Stack
 
@@ -12,8 +12,8 @@ Full stack developer (Java · Spring Boot · Vue.js) working on an urban asset m
 
 ### 📌 Featured work
 
-- **[AI coding agents in open source](https://github.com/viictor1/Analise-IA-em-open-source)**: undergraduate thesis mining 2.6M pull requests from 450 GitHub repositories (Python, DuckDB)
-- **[TEAMMATES](https://github.com/TEAMMATES/teammates/issues/13597)**: migrated the UI off Angular's deprecated animations to NgbCollapse and stabilized the Selenium E2E suite. Merged PRs: [#13776](https://github.com/TEAMMATES/teammates/pull/13776), [#13790](https://github.com/TEAMMATES/teammates/pull/13790), [#13806](https://github.com/TEAMMATES/teammates/pull/13806), [#13831](https://github.com/TEAMMATES/teammates/pull/13831)
+- **[AI coding agents in open source](https://github.com/viictor1/Analise-IA-em-open-source)**, an undergraduate thesis mining 2.6M pull requests from 450 GitHub repositories (Python, DuckDB)
+- **[TEAMMATES](https://github.com/TEAMMATES/teammates/issues/13597)**, where I migrated the UI off Angular's deprecated animations to NgbCollapse and stabilized the Selenium E2E suite. Merged PRs: [#13776](https://github.com/TEAMMATES/teammates/pull/13776), [#13790](https://github.com/TEAMMATES/teammates/pull/13790), [#13806](https://github.com/TEAMMATES/teammates/pull/13806), [#13831](https://github.com/TEAMMATES/teammates/pull/13831)
 
 ### 📊 GitHub stats
 
