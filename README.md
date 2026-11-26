@@ -3,7 +3,7 @@
 Full stack developer (Java · Spring Boot · Vue.js) working on an urban asset management platform used in 700+ cities. Computer Science student at UTFPR, graduating Dec 2026.
 
 - 🔭 Full stack on an ERP for public lighting and urban services, including routing features (OptaPlanner), integration test coverage (JUnit, JaCoCo) and a WhatsApp chatbot (Node.js, Camunda BPMN)
-- 🔬 Researching how AI coding agents are changing newcomer participation in open source, with 2.6M pull requests mined from 450 GitHub repositories
+- 🔬 Researched how AI coding agents are changing newcomer participation in open source, with 2.6M pull requests mined from 450 GitHub repositories (undergraduate thesis)
 - 🌱 Migrated TEAMMATES off Angular's deprecated animations (4 merged PRs)
 
 ### 🛠️ Stack
